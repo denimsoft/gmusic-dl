@@ -1,0 +1,9 @@
+<?php
+
+return [
+    'python_bin'  => 'python',
+    'email'       => '',
+    'password'    => '',
+    'android_id'  => '',
+    'output_dir'  => ''
+];

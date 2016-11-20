@@ -1,0 +1,6 @@
+vendor/
+.bundle/
+.idea/
+.vagrant/
+config/config.php
+vagrant.yml

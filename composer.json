@@ -1,0 +1,15 @@
+{
+  "name": "denimsoft/gmusic-dl",
+  "description": "",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Andrew Mackrodt",
+      "email": "andrew@denimsoft.com"
+    }
+  ],
+  "require": {
+    "james-heinrich/getid3": "~1.9"
+  }
+}
